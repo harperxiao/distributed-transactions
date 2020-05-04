@@ -1,0 +1,1960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba465ef8-b15a-4b62-b031-292f7637fad4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-seata-demo/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/target/" />
+    <ignored path="$PROJECT_DIR$/discover-server/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-tcc-demo/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank2/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank1/target/" />
+    <ignored path="$USER_HOME$/Desktop/专题/wanxin-hmily-demo/hmily-demo-bank1/target/" />
+    <ignored path="$USER_HOME$/Desktop/专题/wanxin-hmily-demo/target/" />
+    <ignored path="$USER_HOME$/Desktop/专题/wanxin-hmily-demo/hmily-demo-bank2/target/" />
+    <ignored path="$USER_HOME$/Desktop/专题/wanxin-hmily-demo/hmily-demo-discover-server/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-txmsg-demo/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-notifymsg-demo/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank1/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank2/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/target/" />
+    <ignored path="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="623290427">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="22" />
+          <entry key="conf" value="4" />
+          <entry key="java" value="258" />
+          <entry key="properties" value="23" />
+          <entry key="xml" value="40" />
+          <entry key="yml" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="22" />
+          <entry key="HOCON" value="4" />
+          <entry key="JAVA" value="258" />
+          <entry key="Properties" value="23" />
+          <entry key="XML" value="40" />
+          <entry key="YAML" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="conf" value="1" />
+          <entry key="dummy" value="18" />
+          <entry key="java" value="6181" />
+          <entry key="properties" value="88" />
+          <entry key="xml" value="141" />
+          <entry key="yml" value="76" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HOCON" value="1" />
+          <entry key="JAVA" value="6181" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Properties" value="88" />
+          <entry key="XML" value="141" />
+          <entry key="YAML" value="76" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="678737100">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1957182013">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="conf" value="2" />
+          <entry key="java" value="19" />
+          <entry key="xml" value="3" />
+          <entry key="yml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="HOCON" value="2" />
+          <entry key="JAVA" value="19" />
+          <entry key="XML" value="3" />
+          <entry key="YAML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="conf" value="6" />
+          <entry key="java" value="707" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HOCON" value="6" />
+          <entry key="JAVA" value="707" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dtx" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/dao/AccountInfoDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/service/AccountInfoService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/service/impl/AccountInfoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/spring/Bank2Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/controller/Bank2Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/spring/Bank2ClientFallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/resources/application-local.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/service/impl/AccountInfoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/controller/Bank1Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-cloud-starter-netflix-eureka-server</find>
+      <find>accountInfoService.doUpdateAccountBalance</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank2/src/main/resources/application-local.properties" />
+        <option value="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/message/TxmsgConsumer.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank2/src/main/java/cn/itcast/dtx/notifydemo/bank2/service/AccountInfoService.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank2/src/main/java/cn/itcast/dtx/notifydemo/bank2/message/NotifyMsgListener.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank2/src/main/java/cn/itcast/dtx/notifydemo/bank2/dao/AccountInfoDao.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank2/src/main/java/cn/itcast/dtx/notifydemo/bank2/service/AccountInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/service/AccountInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank1/src/main/java/cn/itcast/dtx/txmsgdemo/bank1/service/impl/AccountInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/pom.xml" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/spring/Bank2Client.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/model/AccountPay.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/entity/AccountPay.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/service/AccountInfoService.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/entity/AccountInfo.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/entity/AccountPay.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/service/AccountPayService.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/resources/application-local.properties" />
+        <option value="$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank1/src/main/java/cn/itcast/dtx/tccdemo/bank1/Bank1TccServer.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/NotifyBank1Service.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/resources/application-local.properties" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/NotifyPayService.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/service/AccountInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/controller/AccountPayController.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/spring/PayClient.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/spring/PayFallback.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/service/AccountPayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/dao/AccountPayDao.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/message/NotifyMsgListener.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/dao/AccountInfoDao.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/controller/AccountInfoController.java" />
+        <option value="$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank2/src/main/resources/application-local.yml" />
+        <option value="$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank1/src/main/java/cn/itcast/dtx/tccdemo/bank1/service/AccountInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank2/src/main/java/cn/itcast/dtx/tccdemo/bank2/service/AccountInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank1/src/main/java/cn/itcast/dtx/tccdemo/bank1/dao/AccountInfoDao.java" />
+        <option value="$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank2/src/main/java/cn/itcast/dtx/tccdemo/bank2/dao/AccountInfoDao.java" />
+        <option value="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank1/src/main/java/cn/itcast/dtx/txmsgdemo/bank1/model/AccountChangeEvent.java" />
+        <option value="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/dao/AccountInfoDao.java" />
+        <option value="$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/model/AccountChangeEvent.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank2/src/main/java/cn/itcast/dtx/notifydemo/bank2/model/AccountChangeEvent.java" />
+        <option value="$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/model/AccountChangeEvent.java" />
+        <option value="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/resources/file.conf" />
+        <option value="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/spring/Bank2Client.java" />
+        <option value="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/spring/Bank2ClientFallback.java" />
+        <option value="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/spring/Bank2Client.java" />
+        <option value="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/controller/Bank1Controller.java" />
+        <option value="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/service/AccountInfoService.java" />
+        <option value="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/controller/Bank2Controller.java" />
+        <option value="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/service/impl/AccountInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/service/impl/AccountInfoServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.3.9-bin/conf" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.3.9-bin\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dtx-seata-demo-bank1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dtx-seata-demo-bank1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>AccessibilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Angular</id>
+          </State>
+          <State>
+            <id>Ant</id>
+          </State>
+          <State>
+            <id>ArquillianJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bidirectional TextInternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>CDI (Contexts and Dependency Injection)</id>
+          </State>
+          <State>
+            <id>CFML</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Chrome OSCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>CollectionsScala</id>
+          </State>
+          <State>
+            <id>ComparingCollectionsScala</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flowGroovy</id>
+          </State>
+          <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>FlexUnit</id>
+          </State>
+          <State>
+            <id>FreeMarker</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralScala</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>IndicesCollectionsScala</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam</id>
+          </State>
+          <State>
+            <id>JPA</id>
+          </State>
+          <State>
+            <id>JSF annotated elements errors</id>
+          </State>
+          <State>
+            <id>JSP</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Kotlin Android</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>LintLintAndroid</id>
+          </State>
+          <State>
+            <id>LoggingJava</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>MapsCollectionsScala</id>
+          </State>
+          <State>
+            <id>Markdown</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>MemoryJava</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Method signatureScala</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsKotlin</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>OtherCollectionsScala</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Reactor</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective accessJava</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>RoomAndroid</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>Scala: General</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Simplifications: otherCollectionsScala</id>
+          </State>
+          <State>
+            <id>SizeCollectionsScala</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Syntactic SimplificationScala</id>
+          </State>
+          <State>
+            <id>Tapestry</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Thymeleaf</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>TypographyUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Velocity</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="discover-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="discover-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="discover-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="discover-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="discover-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="discover-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="discover-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="discover-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="discoverserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="seatademo" type="462c0819:PsiDirectoryNode" />
+              <item name="bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dtx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dtx" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dtx-seata-demo-bank2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565850216047" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dtx-seata-demo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.302994" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.seatademo.bank2.controller" />
+      <recent name="cn.itcast.dtx.notifymsg.pay.entity" />
+      <recent name="cn.itcast.dtx.notifymsg.pay" />
+      <recent name="cn.itcast.dtx.notifydemo.bank1.model" />
+      <recent name="cn.itcast.dtx.notifydemo.bank1.message" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\teach\dtx\mode2\code\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1" />
+      <recent name="F:\teach\dtx\mode1\code\dtx\dtx-seata-demo\dtx-seata-demo-bank2\src\main\java\cn\itcast\seatademo\bank2" />
+      <recent name="F:\teach\dtx\mode1\code\dtx\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1" />
+      <recent name="F:\teach\transaction\code\dtx\dtx-notifymsg-demo\dtx-notifymsg-demo-pay\src\main\resources" />
+      <recent name="F:\teach\transaction\code\dtx\dtx-notifymsg-demo\dtx-notifymsg-demo-pay\src\main\java\cn\itcast\dtx\notifymsg\pay" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Bank2Server">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank1HmilyServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-bank1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.wanxintx.hmilydemo.bank1.Bank1HmilyServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank1Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dtx-seata-demo-bank1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.seatademo.bank1.Bank1Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank1TccServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dtx-tcc-demo-bank1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.tccdemo.bank1.Bank1TccServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank2HmilyServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hmily-demo-bank2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.wanxintx.hmilydemo.bank2.Bank2HmilyServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank2Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dtx-seata-demo-bank2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.seatademo.bank2.Bank2Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank2TccServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dtx-tcc-demo-bank2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.dtx.tccdemo.bank2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.tccdemo.bank2.Bank2TccServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discover-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.discoverserver.DiscoveryServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotifyBank1Service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dtx-notifymsg-demo-bank1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.dtx.notifydemo.bank1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.notifydemo.bank1.NotifyBank1Service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotifyBank2Service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dtx-notifymsg-demo-bank2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.notifydemo.bank2.NotifyBank2Service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotifyPayService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dtx-notifymsg-demo-pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.dtx.notifymsg.pay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.notifymsg.pay.NotifyPayService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TxMsgBank1Service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dtx-txmsg-demo-bank1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.dtx.txmsgdemo.bank1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.txmsgdemo.bank1.TxMsgBank1Service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TxMsgBank2Service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dtx-txmsg-demo-bank2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.dtx.txmsgdemo.bank2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.txmsgdemo.bank2.TxMsgBank2Service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Bank2Server" />
+      <item itemvalue="Spring Boot.Bank1Server" />
+      <item itemvalue="Spring Boot.DiscoveryServer" />
+      <item itemvalue="Spring Boot.Bank1TccServer" />
+      <item itemvalue="Spring Boot.Bank1HmilyServer" />
+      <item itemvalue="Spring Boot.Bank2HmilyServer" />
+      <item itemvalue="Spring Boot.NotifyBank2Service" />
+      <item itemvalue="Spring Boot.TxMsgBank1Service" />
+      <item itemvalue="Spring Boot.TxMsgBank2Service" />
+      <item itemvalue="Spring Boot.NotifyBank1Service" />
+      <item itemvalue="Spring Boot.NotifyPayService" />
+      <item itemvalue="Spring Boot.Bank2TccServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Bank2TccServer" />
+        <item itemvalue="Spring Boot.NotifyBank1Service" />
+        <item itemvalue="Spring Boot.NotifyPayService" />
+        <item itemvalue="Spring Boot.TxMsgBank1Service" />
+        <item itemvalue="Spring Boot.TxMsgBank2Service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba465ef8-b15a-4b62-b031-292f7637fad4" name="Default Changelist" comment="" />
+      <created>1565331509939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565331509939</updated>
+      <workItem from="1565331512402" duration="8412000" />
+      <workItem from="1565478440250" duration="70359000" />
+      <workItem from="1565656416869" duration="22432000" />
+      <workItem from="1565779828757" duration="1142000" />
+      <workItem from="1565832773357" duration="1232000" />
+      <workItem from="1565837305386" duration="4248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="107825000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7510638" visible="true" weight="0.40425533" />
+      <window_info id="Structure" order="1" sideWeight="0.24725275" side_tool="true" weight="0.42553192" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.24893618" side_tool="true" weight="0.3974164" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.57092196" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15602838" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7834346" visible="true" weight="0.012411348" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.21656536" side_tool="true" weight="0.535461" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.53900707" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.10410334" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/message/TxmsgConsumer.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/service/AccountInfoServiceImpl.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/controller/AccountPayController.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/service/AccountPayServiceImpl.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/controller/AccountInfoController.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank2/src/main/java/cn/itcast/dtx/tccdemo/bank2/service/AccountInfoServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank2/src/main/java/cn/itcast/dtx/tccdemo/bank2/controller/Bank2Controller.java" />
+    <entry file="file://$USER_HOME$/Desktop/专题/wanxin-hmily-demo/hmily-demo-bank1/src/main/java/cn/itcast/wanxintx/hmilydemo/bank1/service/AccountInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/专题/wanxin-hmily-demo/hmily-demo-bank1/src/main/java/cn/itcast/wanxintx/hmilydemo/bank1/service/AccountInfoTccImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="58" column="54" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/dao/AccountInfoDao.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/entity/AccountInfo.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank2/src/main/java/cn/itcast/dtx/tccdemo/bank2/config/DatabaseConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/dao/AccountInfoDao.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/model/AccountChangeEvent.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/entity/AccountInfo.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank1/src/main/java/cn/itcast/dtx/txmsgdemo/bank1/model/AccountChangeEvent.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank1/src/main/java/cn/itcast/dtx/txmsgdemo/bank1/entity/AccountInfo.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank1/src/main/java/cn/itcast/dtx/txmsgdemo/bank1/dao/AccountInfoDao.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank2/src/main/java/cn/itcast/dtx/tccdemo/bank2/entity/AccountInfo.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/annotations/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank2/src/main/java/cn/itcast/dtx/tccdemo/bank2/dao/AccountInfoDao.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank1/src/main/java/cn/itcast/dtx/tccdemo/bank1/entity/AccountInfo.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-tcc-demo/dtx-tcc-demo-bank1/src/main/java/cn/itcast/dtx/tccdemo/bank1/dao/AccountInfoDao.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/entity/AccountPay.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank2/src/main/java/cn/itcast/dtx/notifydemo/bank2/model/AccountChangeEvent.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/entity/AccountInfo.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/entity/AccountPay.java" />
+    <entry file="file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/model/AccountChangeEvent.java" />
+    <entry file="file://$PROJECT_DIR$/discover-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discover-server/src/main/java/cn/itcast/dtx/discoverserver/DiscoveryServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/dao/AccountInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/Bank1Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="14" column="73" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/resources/registry.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/resources/file.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="70" column="33" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/config/DatabaseConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="24" column="60" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/resources/application-local.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/config/DatabaseConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/entity/AccountInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/Bank2Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/spring/Bank2Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/service/AccountInfoService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.0.RELEASE/spring-cloud-openfeign-core-2.1.0.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/spring/Bank2ClientFallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/service/AccountInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/dao/AccountInfoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/resources/application-local.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/spring/Bank2Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/controller/Bank2Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/controller/Bank1Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank2/src/main/java/cn/itcast/seatademo/bank2/service/impl/AccountInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtx-seata-demo/dtx-seata-demo-bank1/src/main/java/cn/itcast/dtx/seatademo/bank1/service/impl/AccountInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dtx-seata-demo-bank2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.302994" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2954023" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
